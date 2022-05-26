@@ -17,7 +17,7 @@ I am a student of science who is fascinated with the world of technology. I am i
 
 
 ## 🛠 Skills
-Python, HTML, CSS, Django
+Python, HTML, CSS, Django, Flutter
 
 
 ## 🔗 Links
